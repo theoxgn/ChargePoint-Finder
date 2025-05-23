@@ -16,7 +16,7 @@ ChargePoint Finder adalah aplikasi web yang membantu pengguna menemukan stasiun 
 
 ## Screenshot Aplikasi
 <div align="center">
-  <img src="./ss.png" alt="Screenshot Aplikasi ChargePoint Finder" width="800">
+  <img src="https://github.com/theoxgn/ChargePoint-Finder/blob/main/ss.png" alt="Screenshot Aplikasi ChargePoint Finder" width="800">
   <p><i>Tampilan utama aplikasi ChargePoint Finder</i></p>
 </div>
 
